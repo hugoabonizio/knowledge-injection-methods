@@ -1,0 +1,7 @@
+lm_eval>=v0.4.7
+bm25s[full]
+PyStemmer
+jax[cpu]
+llama-index>=v0.12.8
+pandas
+openai
